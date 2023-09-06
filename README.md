@@ -1,3 +1,8 @@
+# 项目简介：
+  基于 Tiva TM4C123GH6PM Microcontroller 开发的计步器
+  平台：CCS(Code Composer Studio)
+
+
 Base 'ADCdemo1' 'readAcc' develop Personal Fitness Monitor.  
 The user's steps will be increments by ADXL345 digital accelerometer sensor data.
 
